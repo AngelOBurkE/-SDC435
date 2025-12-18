@@ -1,3 +1,2 @@
 # -SDC435
-Repo for uploading python application files for NoSQL databases.
-angbur5378
+1.8_PA.py commit.

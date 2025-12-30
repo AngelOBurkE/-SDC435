@@ -1,0 +1,39 @@
+[ 
+
+  { 
+
+    "author": { 
+
+      "name": "Devin Coughlin", 
+
+      "email": "776e353654a03ac098cc06e73184e@apple.com" 
+
+    }, 
+
+    "message": "USB: qmi_wwan: Make driver more stable", 
+
+    "file": "drivers/net/usb/qmi_wwan.c", 
+
+    "watch_count": 42 
+
+  }, 
+
+  { 
+
+    "author": { 
+
+      "name": "Jane Developer", 
+
+      "email": "jane@example.com" 
+
+    }, 
+
+    "message": "Fix bug in game rendering engine", 
+
+    "file": "engine/render/game.cpp", 
+
+    "watch_count": 120 
+
+  } 
+
+] 
